@@ -6,7 +6,7 @@ import './App.css'
 function App() {
   return (
     <>
-      <h1>Welcome Aries Global</h1>
+      <h1>Welcome Aries Global & Aries solutions</h1>
     </>
   )
 }
